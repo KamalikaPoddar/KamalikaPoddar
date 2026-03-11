@@ -17,5 +17,7 @@ Python, SQL, React/Next.js, AI tools (Cursor, Replit), APIs, deployment (Vercel,
 
 ## Connect
 Write to me: kamalikapoddar@gmail.com
+
 Linkedin: https://www.linkedin.com/in/kamalika-poddar/
+
 Substack: https://substack.com/@thefintechchronicler
