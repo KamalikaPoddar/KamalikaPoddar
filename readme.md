@@ -9,3 +9,13 @@
 4. An app for new pet parents to understand how to communciate better and train their pets
 5. simplifying the process of filing for tax return, collating all proofs into one place, and finding out scope for additional tax savings
 
+## Domain Expertise 
+Payments, UPI, Account Aggregation, Open Finance, Stablecoins, Cross-border, Prepaid Infrastructure, Wealth tech, personal financial management
+
+## Tech Stack
+Python, SQL, React/Next.js, AI tools (Cursor, Replit), APIs, deployment (Vercel, Railway, Hostinger), Google Cloud.
+
+## Connect
+Write to me: kamalikapoddar@gmail.com
+Linkedin: https://www.linkedin.com/in/kamalika-poddar/
+Substack: https://substack.com/@thefintechchronicler
