@@ -13,7 +13,7 @@
 Payments, UPI, Account Aggregation, Open Finance, Stablecoins, Cross-border, Prepaid Infrastructure, Wealth tech, personal financial management
 
 ## Tech Stack
-Python, SQL, React/Next.js, AI tools (Cursor, Replit), APIs, deployment (Vercel, Railway, Hostinger), Google Cloud.
+Python, SQL, React/Next.js, AI tools (Cursor, Antigravity, Qoder, Claude Code, Replit), APIs, Vector Data (Qdrant, Weaviate), deployment (Vercel, Railway, Hostinger), Google Cloud.
 
 ## Connect
 Write to me: kamalikapoddar@gmail.com
